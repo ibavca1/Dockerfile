@@ -1,0 +1,9 @@
+<apps>
+<web-application>
+        <name>bavc.ru</name>
+        <vhost>*</vhost>
+        <vport>80</vport>
+        <vpath>/</vpath>
+        <path>/var/www/bavc.ru</path>
+</web-application>
+</apps>
